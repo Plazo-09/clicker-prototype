@@ -1,1 +1,1 @@
-# egg-clicker-prototype
+# clicker-prototype
